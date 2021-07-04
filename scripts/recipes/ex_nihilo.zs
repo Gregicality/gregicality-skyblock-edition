@@ -108,7 +108,7 @@ function machineRecipes() {
 
     recipes.remove(<exnihilocreatio:block_end_cake>);
     recipes.addShaped(<exnihilocreatio:block_end_cake>,[
-    [<forge:bucketfilled>.withTag({FluidName: "if.pink_slime", Amount: 1000}).onlyWithTag({FluidName: "if.pink_slime", Amount: 1000}),<forge:bucketfilled>.withTag({FluidName: "if.pink_slime", Amount: 1000}).onlyWithTag({FluidName: "if.pink_slime", Amount: 1000}),<forge:bucketfilled>.withTag({FluidName: "if.pink_slime", Amount: 1000}).onlyWithTag({FluidName: "if.pink_slime", Amount: 1000})],
+    [<deepmoblearning:pristine_matter_enderman>,<deepmoblearning:pristine_matter_enderman>,<deepmoblearning:pristine_matter_enderman>],
     [<ore:gemEnderEye>,<gregtech:meta_item_1:32725>,<ore:gemEnderEye>],
     [<ore:dustHsss>,<ore:dustNaquadria>,<ore:dustHsss>]
     ]);
